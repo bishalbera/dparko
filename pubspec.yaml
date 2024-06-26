@@ -43,6 +43,8 @@ dependencies:
   google_fonts: ^6.2.1
   get_it: ^7.7.0
   hexcolor: ^3.0.1
+  google_nav_bar: ^5.0.6
+  fancy_drawer: ^2.0.0
 
 dev_dependencies:
   flutter_test:

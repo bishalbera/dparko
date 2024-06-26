@@ -10,3 +10,5 @@ void moveScreen(BuildContext context, Widget screenName,
         .push(MaterialPageRoute(builder: (context) => screenName));
   }
 }
+
+int selectedIndex = 0;
